@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>Oak Ave</summary>
+  <leg>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0540300</lat>
+     <lng>-87.6772000</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0512300</lat>
+     <lng>-87.6772700</lng>
+    </end_location>
+    <polyline>
+     <points>utt_GnmcvOd@@P?hB@b@@B?nB@v@?V?dDD</points>
+    </polyline>
+    <duration>
+     <value>224</value>
+     <text>4 mins</text>
+    </duration>
+    <html_instructions>Head &lt;b&gt;south&lt;/b&gt; on &lt;b&gt;Sheridan Rd&lt;/b&gt; toward &lt;b&gt;Foster St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>310</value>
+     <text>0.2 mi</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0512300</lat>
+     <lng>-87.6772700</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0512000</lat>
+     <lng>-87.6783600</lng>
+    </end_location>
+    <polyline>
+     <points>ect_G|mcvOA^AN?RAL?JCZCV?NAJ?JT^</points>
+    </polyline>
+    <duration>
+     <value>75</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; toward &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>95</value>
+     <text>312 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0512000</lat>
+     <lng>-87.6783600</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0509100</lat>
+     <lng>-87.6792400</lng>
+    </end_location>
+    <polyline>
+     <points>_ct_GvtcvOP\DJ@J@\BPBLBPDLFPBH</points>
+    </polyline>
+    <duration>
+     <value>60</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Keep &lt;b&gt;left&lt;/b&gt; to continue toward &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>81</value>
+     <text>266 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0509100</lat>
+     <lng>-87.6792400</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0508600</lat>
+     <lng>-87.6800400</lng>
+    </end_location>
+    <polyline>
+     <points>eat_GfzcvO?@?b@?fBDJBD</points>
+    </polyline>
+    <duration>
+     <value>49</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;right&lt;/b&gt; toward &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>68</value>
+     <text>223 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0508600</lat>
+     <lng>-87.6800400</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0504000</lat>
+     <lng>-87.6804200</lng>
+    </end_location>
+    <polyline>
+     <points>{`t_Gf_dvO@BFHLLJJTJLDHBDDBF</points>
+    </polyline>
+    <duration>
+     <value>45</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;left&lt;/b&gt; toward &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>61</value>
+     <text>200 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0504000</lat>
+     <lng>-87.6804200</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0499700</lat>
+     <lng>-87.6814700</lng>
+    </end_location>
+    <polyline>
+     <points>_~s_GradvO@N?N@T@N?D?D?D@DDJFHFHDHDHFRPf@DBJ?</points>
+    </polyline>
+    <duration>
+     <value>99</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; toward &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>106</value>
+     <text>348 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0499700</lat>
+     <lng>-87.6814700</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0499700</lat>
+     <lng>-87.6838500</lng>
+    </end_location>
+    <polyline>
+     <points>i{s_GdhdvO?p@?^?jC?J?lC?bB</points>
+    </polyline>
+    <duration>
+     <value>145</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Clark St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>196</value>
+     <text>0.1 mi</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0499700</lat>
+     <lng>-87.6838500</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0484800</lat>
+     <lng>-87.6839100</lng>
+    </end_location>
+    <polyline>
+     <points>i{s_G`wdvOhHJ</points>
+    </polyline>
+    <duration>
+     <value>119</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; toward &lt;b&gt;Church St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>166</value>
+     <text>0.1 mi</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0484800</lat>
+     <lng>-87.6839100</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0485200</lat>
+     <lng>-87.6867700</lng>
+    </end_location>
+    <polyline>
+     <points>_rs_GlwdvOCnD@dC?PAxACxC</points>
+    </polyline>
+    <duration>
+     <value>168</value>
+     <text>3 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Church St&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>236</value>
+     <text>0.1 mi</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>42.0485200</lat>
+     <lng>-87.6867700</lng>
+    </start_location>
+    <end_location>
+     <lat>42.0466600</lat>
+     <lng>-87.6868300</lng>
+    </end_location>
+    <polyline>
+     <points>grs_GhievO~GJrA?</points>
+    </polyline>
+    <duration>
+     <value>149</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Oak Ave&lt;/b&gt;&lt;div style=&quot;font-size:0.9em&quot;&gt;Destination will be on the right&lt;/div&gt;</html_instructions>
+    <distance>
+     <value>207</value>
+     <text>0.1 mi</text>
+    </distance>
+   </step>
+   <duration>
+    <value>1133</value>
+    <text>19 mins</text>
+   </duration>
+   <distance>
+    <value>1526</value>
+    <text>0.9 mi</text>
+   </distance>
+   <start_location>
+    <lat>42.0540300</lat>
+    <lng>-87.6772000</lng>
+   </start_location>
+   <end_location>
+    <lat>42.0466600</lat>
+    <lng>-87.6868300</lng>
+   </end_location>
+   <start_address>2001 Sheridan Road, Northwestern University, Evanston, IL 60208, USA</start_address>
+   <end_address>1576 Oak Avenue, Evanston, IL 60201, USA</end_address>
+  </leg>
+  <copyrights>Map data ©2013 Google</copyrights>
+  <overview_polyline>
+   <points>utt_GnmcvOdEDbE@dDDA^Ab@IlAAZ?JT^Vh@Bh@P~@JZ?d@?fBDJDHTV`@VVHHLDdA@VZh@L\Pf@DBJ??p@?jD?xC?bBhHJAtHAjBCxC~GJrA?</points>
+  </overview_polyline>
+  <warning>Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths.</warning>
+  <bounds>
+   <southwest>
+    <lat>42.0466600</lat>
+    <lng>-87.6868300</lng>
+   </southwest>
+   <northeast>
+    <lat>42.0540300</lat>
+    <lng>-87.6772000</lng>
+   </northeast>
+  </bounds>
+ </route>
+</DirectionsResponse>
